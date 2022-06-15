@@ -1,5 +1,7 @@
 
 import './App.css';
+import DataTable from './Table/DataTable';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
